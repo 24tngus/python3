@@ -14,4 +14,4 @@ for test_case in range(1, T+1):
         else:
             answer += (max_price - price[i]) 
 
-    print("#%d %d" %(test_case, answer))
+    print("#%d %d" %(test_case, answer)) 
