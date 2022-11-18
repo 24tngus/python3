@@ -13,5 +13,5 @@ for test_case in range(1, T+1):
     if hour > 12:
         hour -= 12
 
-    print("#{} {} {}".format(test_case, hour, min))
+    print("#{} {} {}".format(test_case, hour, min)) 
 
