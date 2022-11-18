@@ -3,4 +3,4 @@ answer = 0
 
 answer = data[0] - data[1] + 1
 
-print(answer)
+print(answer) 
