@@ -19,5 +19,5 @@ print("\"!@#$%^&*()\'")
 #Q. 7 특수 기호 출력 (5)
 print("\"C:\\Download\\\'hello\'.py\"")
 
-#Q. 8 특수 기호 출력 (6)
+#Q. 8 특수 기호 출력 (6) 
 print("print(\"Hello\\nWorld\")")
