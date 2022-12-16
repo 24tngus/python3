@@ -9,8 +9,6 @@
 
 ### 언어
 - Python3
-- JAVA
-- JavaScript
 
 ### 코딩 사이트
 - 코드업 (https://codeup.kr/problemsetsol.php?psid=33)
